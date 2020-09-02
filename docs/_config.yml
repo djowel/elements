@@ -20,6 +20,7 @@ defaults:
     type: "pages"
   values:
     layout: "default"
+    show_page_title: true
 
 title: "Elements C++ GUI library"
 email: djowel@gmail.com

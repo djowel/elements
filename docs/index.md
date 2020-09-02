@@ -1,4 +1,6 @@
 ---
+title: "Home"
+show_page_title: false
 ---
 # Elements C++ GUI library
 
